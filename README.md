@@ -188,3 +188,5 @@ Flowchartnya
 Dengan penerapan konsep pemrograman modular dan Object Oriented Programming (OOP), program pendataan pengunjung ini menjadi lebih terstruktur, mudah dipahami, dan mudah dikembangkan. Pemisahan antara class data, process, view, dan program utama membuat setiap bagian program memiliki tanggung jawab yang jelas.
 
 Program ini telah memenuhi seluruh ketentuan tugas UAS yaitu menggunakan konsep OOP dan modular, meminta input dari pengguna, melakukan validasi input menggunakan exception (Value Error) serta menampilkan output dalam tabel.
+
+**Link Youtubbe** = https://youtu.be/KBIDbEcQR-w?si=bQqw0znckYPWliK_
